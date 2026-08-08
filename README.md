@@ -1,2 +1,2 @@
-# Bio-Dieasal-Optimiztion-Script
+# Bio-Diesel-Optimiztion-Script
 NSGA 3 and MOPSO 
